@@ -1,6 +1,6 @@
-#OBJECT DETECTION USING YOLO
+# OBJECT DETECTION USING YOLO
 
-###TODO:
+### TODO:
 * Make it realtime.
 * Improve object trails.
 * Improve Stability and Performance.
